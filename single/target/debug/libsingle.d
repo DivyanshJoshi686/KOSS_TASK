@@ -1,1 +1,1 @@
-/Users/divyanshjoshi/Desktop/Programs/rust/single/target/debug/libsingle.rlib: /Users/divyanshjoshi/Desktop/Programs/rust/single/src/lib.rs
+/Users/divyanshjoshi/Desktop/KOSS_TASK/single/target/debug/libsingle.rlib: /Users/divyanshjoshi/Desktop/KOSS_TASK/single/src/lib.rs

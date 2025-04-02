@@ -1,1 +1,1 @@
-/Users/divyanshjoshi/Desktop/Programs/rust/single/target/debug/single: /Users/divyanshjoshi/Desktop/Programs/rust/single/src/lib.rs /Users/divyanshjoshi/Desktop/Programs/rust/single/src/main.rs
+/Users/divyanshjoshi/Desktop/KOSS_TASK/single/target/debug/single: /Users/divyanshjoshi/Desktop/KOSS_TASK/single/src/lib.rs /Users/divyanshjoshi/Desktop/KOSS_TASK/single/src/main.rs
